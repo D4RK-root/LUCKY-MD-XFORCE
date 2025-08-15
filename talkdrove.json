@@ -1,10 +1,10 @@
 {
-  "bot-name": "LUCKY-MD-XFORCE MULT DEVICE",
-  "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
-  "logo": "https://files.catbox.moe/uw4l17.jpeg",
-  "keywords": ["Fredi-Ezra", "Lucky-Md", "mdtech"],
-  "documentation-link": "https://lucky-xforce-session-site.onrender.com",
-  "owner-verification":"frediezra001@gmail.com",
+  "bot-name": "D4RK-SH",
+  "description": "D4RK Whatsapp device bot made by SHIVA to help Whatsapp users to enjoy while helping...",
+  "logo": "https://files.catbox.moe/dvvl81.jpeg",
+  "keywords": ["D4RK", "D4RK-SH", "Shiva.pr"],
+  "documentation-link": "d4rkboy.bio.link",
+  "owner-verification":"shivasubramanian110@gmail.com",
   "env": {
     "PREFIX":
     {
@@ -15,7 +15,7 @@
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
-      "required": false
+      "required": true
     },
       "AUDIO_REPLY":
     {
@@ -26,12 +26,12 @@
     "AUTO_REPLY": {
       "description": "when enabled it automatically sends  auto reply message to members in your pm",
       "value": "no",
-      "required": false
+      "required": true
     },
     "AUTO_REACT_STATUS": {
       "description": "Your contact status will be react automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_BIO": {
       "description": "This automatically update your bio status.Always make sure you insert your OWNER_NAME since it uses that to update your bio name status",
@@ -52,12 +52,12 @@
     "PM_PERMIT": {
       "description": "Restrict other users from using your bot in private messages (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_STATUS_TEXT": {
       "description": "type your genuine status message",
       "value": "viewed ✅✅",
-      "required": false
+      "required": true
     },
     "AUTO_STATUS_REPLY": {
       "description": "type your genuine status message",
@@ -67,11 +67,11 @@
     "ANTI_CALL_TEXT": {
       "description": "Type your anticall message to always send when calls are declined.You can as well leave it blank",
       "value": "My owner don't receive any call now because it's busy",
-      "required": false
+      "required": true
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "⁠LUCKY-MD-XFORCE",
+      "value": "⁠D4RK",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -91,17 +91,17 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "LUCKY-XFORCE••<=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieUdpeG53UFhrS2M1QmpDRkVSUGhoZmg0dmJXWlpVeXI3V3FEWTViRVhGbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ01qVkV1N3J5dkdXUzhLR0VQRExjNVR2ZjY3THBXSTVEVk10M1VYc25IRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2RUovMEZtSnpSenhYYStjWTJpeHRsK3pKenNIbWdBeTdsNEs0TCtwUFdrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIzeWo3Q0k0dGpvWWJFd2p3ZVoyTzZDU3RoUFFXMkEyb2phbTF0RUVkbjA0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdFLzlpRVVKMDJoRUF5a1NnT29RZkFmVUZCamUzNm5OdkNzaFMzMWV0a1E9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Iktab2JYazE5SURZdXo3TUxhWndnK2o4Y2dwbG9QL3pkYmQ2c0FPT2N6ajA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEJyR1JHTGRMZEpzK1FHSFFmM3gyZW94ZjdvbVRYRmRoc0dSNUc0ckxWYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTU9jc0M5T25rdWVTTWhxSEt1OFc2eWtUNmNVc040WW1Jc1JQSmJBOU5RVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldiTXZyUit3cjlNUDBHaWUxczdEbVN5OFNOQ1NOMEhHbzhSaFg2RHFoRnU0MzBQeFpYcW5RMGZVOUptTHZmeFcveVR6QUJVY2lmQnRobmp1eEFFbkFnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTY5LCJhZHZTZWNyZXRLZXkiOiJ5U1BOMVY2dGR5M1JNMnVtSzFMUGwyN0lYMWtiWjFZbkFOaEJCaERBdW5zPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjkxNzUwMTM3MTEwNUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIxNjIwOTEwMkJEQjgzMzgwMjBEMkJENUE2QUZDQzQ3OSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzU1MjMwMjg3fSx7ImtleSI6eyJyZW1vdGVKaWQiOiI5MTc1MDEzNzExMDVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiMzA3NzUwRTQzMjkxMjY5ODA5NjU1MTBGNERGNEJEMjgifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1NTIzMDI4N30seyJrZXkiOnsicmVtb3RlSmlkIjoiOTE3NTAxMzcxMTA1QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkI5NjREMjkwNTcwNjdBRDZBMjE4QjNFN0M5QkQzQjAwIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTUyMzAyODl9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjp0cnVlLCJwYWlyaW5nQ29kZSI6IkJBMlNISFZIIiwibWUiOnsiaWQiOiI5MTc1MDEzNzExMDU6MkBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJENHJrIiwibGlkIjoiMTE5ODU2MDk1NTY4MTE1OjJAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNPZXl2OVVCRU1IZytzUUdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJVVE1oZHV0cURhbUQ4MGh4d01NSWJjV05LWU5OUTNGOExuTFdMcmY5V0Y0PSIsImFjY291bnRTaWduYXR1cmUiOiJuZTAzdVM4Ym1lRnNLcU5WS3lmL1lQTnRwNGo1c1VyelFRbnVwRkN4KzFUMnVOMXMrTlVBME1pOGlqNFkvcmFiY0FvVDdBMWQrdVJNcHp1WUJCMWNCdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiYUprUUpTU3ZaTXQ3cVI0TDY4NTd3TG56VWg4Z2pwcStFUG1wbmQ0Wk12d3p4QzVUUy9qak5lSzllT09sZWJlOVMweDA1RXFXTG1JN1RjSUdtVUJvQkE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5MTc1MDEzNzExMDU6MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJWRXpJWGJyYWcycGcvTkljY0REQ0czRmpTbURUVU54ZkM1eTFpNjMvVmhlIn19XSwicGxhdGZvcm0iOiJzbWJhIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQklJRFE9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTUyMzAyODYsImxhc3RQcm9wSGFzaCI6IjNmWXdDSyIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBT09TIn0=",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "SHIVA",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/uw4l17.jpeg",
+      "value": "https://files.catbox.moe/dvvl81.jpeg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -111,7 +111,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "917501371105",
       "required": false
     },
     "WARN_COUNT": {
@@ -147,7 +147,7 @@
     "AUTO_REACTION": {
       "description": "Set 'yes' to enable bot reactions to messages in private chats",
       "value": "no",
-      "required": false
+      "required": true
     }
   }
 },
